@@ -14,8 +14,11 @@ header {
   font-size: 35px;
 }
 
-/* Create three equal columns that floats next to each other */
+main {
+  padding: 0px 30px;
+}
 
+/* Create three equal columns that floats next to each other */
 section {
   float: left;
   width: 33.33%;
