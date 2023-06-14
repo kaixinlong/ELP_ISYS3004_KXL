@@ -16,22 +16,22 @@ header {
 
 /* Create three equal columns that floats next to each other */
 
-main {
+section {
   float: left;
   width: 33.33%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
 
-#Article 1 {
+#Article1 {
   background-color:#aaa;
 }
 
-#Article 2 {
+#Article2 {
   background-color:#bbb;
 }
 
-#Article 3 {
+#Article3 {
   background-color:#ccc;
 }
 
