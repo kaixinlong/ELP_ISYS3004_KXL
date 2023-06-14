@@ -64,8 +64,12 @@ nav a:hover {
   clear: both;
 }
 
+img {
+ border-width:0;
+}
+
 /* Style the footer */
-.footer {
+footer {
   background-color #333;
   padding: 10px;
   text-align: center;
