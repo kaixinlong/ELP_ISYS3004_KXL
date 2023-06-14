@@ -78,11 +78,9 @@ footer {
   text-align: center;
 }
 
- @media (max-width: 600px) {
-section {
-  float: left;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
-  text-align: justify;
-}
-}
+    @media (max-width: 600px) {
+      section {
+        float: none;
+        width: 100%;
+      }
+    }
